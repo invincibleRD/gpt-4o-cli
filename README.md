@@ -24,4 +24,4 @@ A CLI application to interact with OpenAI GPT models.
 
 Ask a question to the GPT model:
 ```sh
-gpt "What is the capital of France?"
+gpt 
